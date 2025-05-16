@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "showroom1.xsl"?> 
+
+<showroom>
+	<car>
+		<name>Maruti Suzuki Swift</name>
+		<type>Hatchback</type>
+		<fuel>Petrol</fuel>
+		<engine>1197cc</engine>
+		<transmission>Manual/Automatic</transmission>
+		<price>₹6.24 lakh</price>
+	</car>
+	<car>
+		<name>Hyundai Creta</name>
+		<type>SUV</type>
+		<fuel>Petrol/Diesel</fuel>
+		<engine>1497–1493cc</engine>
+		<transmission>Manual/Automatic</transmission>
+		<price>₹11.00 lakh</price>
+	</car>
+		<car>
+		<name>Tata Nexon</name>
+		<type>Compact SUV</type>
+		<fuel>Petrol/Diesel</fuel>
+		<engine>1199-1497cc</engine>
+		<transmission>Manual/AMT/DCT</transmission>
+		<price>₹8.15 lakh</price>
+	</car>
+	<car>
+		<name>Honda City</name>
+		<type>Sedan</type>
+		<fuel>Petrol/Hybrid</fuel>
+		<engine>1498cc</engine>
+		<transmission>Manual/CVT</transmission>
+		<price>₹11.82 lakh</price>
+	</car>
+	<car>
+		<name>Kia Seltos</name>
+		<type>SUV</type>
+		<fuel>Petrol/Diesel</fuel>
+		<engine>1497–1493cc</engine>
+		<transmission>Manual/IVT/DCT</transmission>
+		<price>₹1090 lakh</price>
+	</car>
+
+
+</showroom>

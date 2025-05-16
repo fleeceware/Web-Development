@@ -1,0 +1,84 @@
+<?xml   >
+	<bookstore>
+		<book catrgory="">
+			<title>Introduction to algorithm</title>
+			<author>Cormen, Leiserson, Rivest, Stein</author>
+			<year>2009</year>
+			<price>7470</price>
+		</book>
+		<book catrgory="">
+			<title>Computer Organization and Design</title>
+			<author>David A. Patterson, John L. Hennessy</author>
+			<year>2020</year>
+			<price>7055</price>
+		</book>
+		<book catrgory="">
+			<title>Clean Code</title>
+			<author>Robert C. Martin</author>
+			<year>2008</year>
+			<price>3320</price>
+		</book>
+		<book catrgory="">
+			<title>Structure and Interpretation of Computer Programs (SICP)</title>
+			<author>Harold Abelson, Gerald Jay Sussman</author>
+			<year>1996</year>
+			<price>4150</price>
+		</book>
+		<book catrgory="">
+			<title>The Pragmatic Programmer</title>
+			<author>Andrew Hunt, David Thomas</author>
+			<year>2019</year>
+			<price>3715</price>
+		</book>
+		<book catrgory="">
+			<title>The Pragmatic Programmer</title>
+			<author>Andrew Hunt, David Thomas</author>
+			<year>2019</year>
+			<price>3715</price>
+		</book>
+		<book catrgory="">
+			<title>Artificial Intelligence: A Modern Approach</title>
+			<author>Stuart Russell, Peter Norvig</author>
+			<year>2020</year>
+			<price>9130</price>
+		</book>
+		<book catrgory="">
+			<title>Operating System Concepts</title>
+			<author>Abraham Silberschatz, Peter B. Galvin</author>
+			<year>2018</year>
+			<price>8300</price>
+		</book>
+		<book catrgory="">
+			<title>Computer Networks</title>
+			<author>Andrew S. Tanenbaum, David J. Wetherall</author>
+			<year>2010</year>
+			<price>6640</price>
+		</book>
+		<book catrgory="">
+			<title>Code: The Hidden Language of Computer Hardware and Software</title>
+			<author>Charles Petzold</author>
+			<year>2000</year>
+			<price>1660</price>
+		</book>
+		<book catrgory="">
+			<title>Design Patterns: Elements of Reusable Object-Oriented Software</title>
+			<author>Erich Gamma et al.</author>
+			<year>1994</year>
+			<price>4565</price>
+		</book>
+
+
+
+		
+
+
+
+		
+
+			
+		
+	
+	</bookstore>
+
+
+
